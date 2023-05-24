@@ -7,3 +7,13 @@ The application calls the [Bored API](https://www.boredapi.com), but it does so 
 Deployed at: https://vish213-boredbot.netlify.app/
 
 ![](./screenshot.jpg)
+
+## JavaScript concepts
+
+- document.getElementById()
+- element.addEventListener()
+- element.innerText
+- functions
+- fetch()
+    - .then
+    - .json()
